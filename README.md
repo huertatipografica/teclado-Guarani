@@ -5,10 +5,13 @@ El objetivo de esta nueva propuesta de distribución de teclado es brindar acces
 Tomando como base la distribución Spanish - ISO y modificándola lo menos posible hemos incorporado:
 
 y + ´
+
 e i u y g + ~
+
 saltillo ⁄ pusó
 
 Gtilde/gtilde -> no tienen unicode, pero se pueden tipear usando  el acento de combinación.
+
 Saltillo/saltillo -> tienen unicode. Es una letra, por lo que debería ser de tipeado directo y estar dentro de la órbita de las letras. Tiene low- y uppercap.
 
 Con esta distribución queremos ofrecer una solución a la escritura guaraní independientemente de la fuente tipográfica que se esté utilizando (cualquier fuente que contenga combining accents debería funcionar).
@@ -32,11 +35,15 @@ The objective of this new proposal for keyboard distribution is to allow accessi
 Starting with the Spanish - ISO distribution and introducing the least amount of modifications possible we’ve introduced:
 
 y + ´
+
 e i u y g + ~
+
 saltillo ⁄ pusó
 
 Gtilde/gtilde -> They don’t have Unicode, but they can be typed using the combination accent.
+
 Saltillo/saltillo -> They have Unicode. They’re a letters, so they can be typed directly and they’re inside the orbit of letters. They have lowercase and uppercase.
+
 With this distribution we want to offer a solution for guaraní writing, independently of the font being used (any font that has combining accents should work).
 It’s important to consider bilingual users because guaraní is a language that shares territory with other languages, mainly spanish and portuguese.
 
