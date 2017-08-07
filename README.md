@@ -4,13 +4,13 @@ Distribución de teclado Guaraní-Español-Portugués
 El objetivo de esta nueva propuesta de distribución de teclado es brindar accesibilidad a los signos necesarios para tipear guaraní y español.
 Tomando como base la distribución Spanish - ISO y modificándola lo menos posible hemos incorporado:
 
-y + ´
+`y` + `´`
 
-e i u y g + ~
+`e` `i` `u` `y` `g` + `~`
 
-saltillo ⁄ pusó
+`saltillo` ⁄ `pusó`
 
-Gtilde/gtilde -> no tienen unicode, pero se pueden tipear usando  el acento de combinación.
+`Gtilde` / `gtilde` -> no tienen unicode, pero se pueden tipear usando  el acento de combinación.
 
 Saltillo/saltillo -> tienen unicode. Es una letra, por lo que debería ser de tipeado directo y estar dentro de la órbita de las letras. Tiene low- y uppercap.
 
@@ -33,13 +33,13 @@ Guaraní-Spanish-Portuguese keyboard layout
 The objective of this new proposal for keyboard distribution is to allow accessibility to the necessary signs to type guaraní and spanish.
 Starting with the Spanish - ISO distribution and introducing the least amount of modifications possible we’ve introduced:
 
-y + ´
+`y` + `´`
 
-e i u y g + ~
+`e` `i` `u` `y` `g` + `~`
 
-saltillo ⁄ pusó
+`saltillo` ⁄ `pusó`
 
-Gtilde/gtilde -> They don’t have Unicode, but they can be typed using the combination accent.
+`Gtilde` / `gtilde` -> They don’t have Unicode, but they can be typed using the combination accent.
 
 Saltillo/saltillo -> They have Unicode. They’re a letters, so they can be typed directly and they’re inside the orbit of letters. They have lowercase and uppercase.
 
