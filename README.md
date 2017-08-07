@@ -1,5 +1,5 @@
-# Keyboard
-Teclado Guaraní-Español-Portugués // Guaraní-Spanish-Portuguese Keyboard distribution
+# Teclado Guaraní
+Distribución de teclado Guaraní-Español-Portugués
 
 El objetivo de esta nueva propuesta de distribución de teclado es brindar accesibilidad a los signos necesarios para tipear guaraní y español.
 Tomando como base la distribución Spanish - ISO y modificándola lo menos posible hemos incorporado:
@@ -27,9 +27,8 @@ https://glyphsapp.com/tutorials/mark-attachment
 
 https://es.wikipedia.org/wiki/Distribuci%C3%B3n_del_teclado#Teclado_est.C3.A1ndar_multiidiomas_de_Canad.C3.A1
 
-English
-
-Guaraní-Spanish-Portuguese Keyboard distribution
+# Guaraní keyboard layout
+Guaraní-Spanish-Portuguese keyboard layout
 
 The objective of this new proposal for keyboard distribution is to allow accessibility to the necessary signs to type guaraní and spanish.
 Starting with the Spanish - ISO distribution and introducing the least amount of modifications possible we’ve introduced:
