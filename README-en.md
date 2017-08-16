@@ -21,13 +21,17 @@ Starting with the Spanish - ISO distribution and introducing the least amount of
 With this distribution we want to offer a solution for guaraní writing, independently of the font being used (any font that has combining accents should work).
 It’s important to consider bilingual users because guaraní is a language that shares territory with other languages, mainly spanish and portuguese.
 
+For making changes in the windows version of the keyboard run in command line:
+
+```bash
+python mac2winKeyboard.py Guarani.keylayout
+```
+
 This distribution was created using Ukelele
 
-http://scripts.sil.org/cms/scripts/page.php?item_id=ukelele
 
-https://support.microsoft.com/es-ar/help/258824/how-to-change-your-keyboard-layout
-
-https://glyphsapp.com/tutorials/mark-attachment
-
-https://es.wikipedia.org/wiki/Distribuci%C3%B3n_del_teclado#Teclado_est.C3.A1ndar_multiidiomas_de_Canad.C3.A1
-
+- http://scripts.sil.org/cms/scripts/page.php?item_id=ukelele
+- https://support.microsoft.com/es-ar/help/258824/how-to-change-your-keyboard-layout
+- https://glyphsapp.com/tutorials/mark-attachment
+- https://es.wikipedia.org/wiki/Distribuci%C3%B3n_del_teclado#Teclado_est.C3.A1ndar_multiidiomas_de_Canad.C3.A1
+- https://github.com/adobe-type-tools/keyboard-layouts
