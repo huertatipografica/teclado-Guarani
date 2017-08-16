@@ -3,6 +3,8 @@
 # Teclado Guaraní
 Distribución de teclado Guaraní-Español-Portugués
 
+![Kayboard layout](img/gua-spa.png)
+
 El objetivo de esta nueva propuesta de distribución de teclado es brindar accesibilidad a los signos necesarios para tipear guaraní y español.
 Tomando como base la distribución Spanish - ISO y modificándola lo menos posible hemos incorporado:
 

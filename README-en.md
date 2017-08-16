@@ -3,6 +3,8 @@
 # Guaraní keyboard layout
 Guaraní-Spanish-Portuguese keyboard layout
 
+![Kayboard layout](img/gua-spa.png)
+
 The objective of this new proposal for keyboard distribution is to allow accessibility to the necessary signs to type guaraní and spanish.
 Starting with the Spanish - ISO distribution and introducing the least amount of modifications possible we’ve introduced:
 
