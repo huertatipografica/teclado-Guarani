@@ -1,3 +1,5 @@
+[English](README-en.md)
+
 # Teclado Guaraní
 Distribución de teclado Guaraní-Español-Portugués
 

@@ -1,3 +1,5 @@
+[Español](README.md)
+
 # Guaraní keyboard layout
 Guaraní-Spanish-Portuguese keyboard layout
 
