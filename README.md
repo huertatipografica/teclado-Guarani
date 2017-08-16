@@ -18,7 +18,10 @@ Tomando como base la distribución Spanish - ISO y modificándola lo menos posib
 
 `Saltillo` / `saltillo` -> tienen unicode. Es una letra, por lo que debería ser de tipeado directo y estar dentro de la órbita de las letras. Tiene low- y uppercap.
 
-Con esta distribución queremos ofrecer una solución a la escritura guaraní independientemente de la fuente tipográfica que se esté utilizando (cualquier fuente que contenga combining accents debería funcionar).
+Con esta distribución queremos ofrecer una solución a la escritura guaraní independientemente de la fuente tipográfica que se esté utilizando (cualquier fuente que contenga combining accents y saltillo debería funcionar).
+
+Los acentos deben ser tipeados antes de la letra que modifican.
+
 Es importante considerar a un usuario bilingüe porque el guaraní es un idioma que comparte territorio con otros idiomas, principalmente español y portugués.
 
 En caso de hacer cambios, para actualizar la versión de windows correr en la terminal:
@@ -27,18 +30,20 @@ En caso de hacer cambios, para actualizar la versión de windows correr en la te
 python mac2winKeyboard.py Guarani.keylayout
 ```
 
-Instrucciones para instalar una nueva distribución del teclado en Windows
+Instrucciones para instalar una nueva distribución del teclado en Windows:
 
 https://support.microsoft.com/es-ar/help/258824/how-to-change-your-keyboard-layout
 
 
-Instrucciones para instalar una nueva distribución del teclado en Mac
+Instrucciones para instalar una nueva distribución del teclado en Mac:
 
 Hacer doble click en el archivo Guarani.dmg y arrojar el archivo .keylayout en la carpeta que indica Drag here to install (~Library / Keyboard Layouts)
 
 Abrir el panel de preferencias de teclado
 
 Agregar esta distribución a las opciones de teclado
+
+Más info: http://www.languagegeek.com/keyboard_general/mac_installation1.html
 
 
 El programa utilizado para generar esta nueva distribución es Ukelele

@@ -18,7 +18,10 @@ Starting with the Spanish - ISO distribution and introducing the least amount of
 
 `Saltillo` / `saltillo` -> They have Unicode. They’re a letters, so they can be typed directly and they’re inside the orbit of letters. They have lowercase and uppercase.
 
-With this distribution we want to offer a solution for guaraní writing, independently of the font being used (any font that has combining accents should work).
+With this distribution we want to offer a solution for guaraní writing, independently of the font being used (any font that has combining accents and saltillo should work).
+
+The accents are typed before the letter they modify.
+
 It’s important to consider bilingual users because guaraní is a language that shares territory with other languages, mainly spanish and portuguese.
 
 For making changes in the windows version of the keyboard run in command line:
@@ -26,8 +29,8 @@ For making changes in the windows version of the keyboard run in command line:
 ```bash
 python mac2winKeyboard.py Guarani.keylayout
 ```
-How to install a new keyboard layout in Windows:
 
+How to install a new keyboard layout in Windows:
 
 Https://support.microsoft.com/en-us/help/258824/how-to-change-your-keyboard-layout
 
@@ -39,6 +42,8 @@ Double-click the Guarani.dmg file and drop the .keylayout file into the folder n
 Open the keyboard preferences.
 
 Add this distribution to the keyboard options from the "Others" section on the left.
+
+More info: http://www.languagegeek.com/keyboard_general/mac_installation1.html
 
 
 This distribution was created using Ukelele
