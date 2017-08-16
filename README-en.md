@@ -30,12 +30,12 @@ For making changes in the windows version of the keyboard run in command line:
 python mac2winKeyboard.py Guarani.keylayout
 ```
 
-How to install a new keyboard layout in Windows:
+**How to install a new keyboard layout in Windows:**
 
 Https://support.microsoft.com/en-us/help/258824/how-to-change-your-keyboard-layout
 
 
-How to intall a new keyboard layout on Mac:
+**How to intall a new keyboard layout on Mac:**
 
 Double-click the Guarani.dmg file and drop the .keylayout file into the folder named "Drag here to install" (~/Library/Keyboard Layouts)
 
