@@ -30,10 +30,13 @@ En caso de hacer cambios, para actualizar la versión de windows correr en la te
 python mac2winKeyboard.py Guarani.keylayout
 ```
 
+
+## Instalación
+
+
 **Instrucciones para instalar una nueva distribución del teclado en Windows:**
 
 https://support.microsoft.com/es-ar/help/258824/how-to-change-your-keyboard-layout
-
 
 
 **Instrucciones para instalar una nueva distribución del teclado en Mac:**
@@ -46,6 +49,9 @@ Agregar esta distribución a las opciones de teclado
 
 Más info: http://www.languagegeek.com/keyboard_general/mac_installation1.html
 
+
+
+## Más información
 
 
 El programa utilizado para generar esta nueva distribución es Ukelele

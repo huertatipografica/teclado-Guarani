@@ -30,6 +30,11 @@ For making changes in the windows version of the keyboard run in command line:
 python mac2winKeyboard.py Guarani.keylayout
 ```
 
+
+
+## Install
+
+
 **How to install a new keyboard layout in Windows:**
 
 Https://support.microsoft.com/en-us/help/258824/how-to-change-your-keyboard-layout
@@ -45,6 +50,9 @@ Add this distribution to the keyboard options from the "Others" section on the l
 
 http://www.languagegeek.com/keyboard_general/mac_installation1.html
 
+
+
+## Further reading
 
 
 This distribution was created using Ukelele
