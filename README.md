@@ -30,12 +30,12 @@ En caso de hacer cambios, para actualizar la versión de windows correr en la te
 python mac2winKeyboard.py Guarani.keylayout
 ```
 
-Instrucciones para instalar una nueva distribución del teclado en Windows:
+**Instrucciones para instalar una nueva distribución del teclado en Windows:**
 
 https://support.microsoft.com/es-ar/help/258824/how-to-change-your-keyboard-layout
 
 
-Instrucciones para instalar una nueva distribución del teclado en Mac:
+**Instrucciones para instalar una nueva distribución del teclado en Mac:**
 
 Hacer doble click en el archivo Guarani.dmg y arrojar el archivo .keylayout en la carpeta que indica Drag here to install (~Library / Keyboard Layouts)
 
