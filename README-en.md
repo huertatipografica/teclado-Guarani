@@ -43,7 +43,8 @@ Open the keyboard preferences.
 
 Add this distribution to the keyboard options from the "Others" section on the left.
 
-More info: http://www.languagegeek.com/keyboard_general/mac_installation1.html
+http://www.languagegeek.com/keyboard_general/mac_installation1.html
+
 
 
 This distribution was created using Ukelele

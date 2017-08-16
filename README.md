@@ -46,6 +46,7 @@ Agregar esta distribución a las opciones de teclado
 Más info: http://www.languagegeek.com/keyboard_general/mac_installation1.html
 
 
+
 El programa utilizado para generar esta nueva distribución es Ukelele
 
 - http://scripts.sil.org/cms/scripts/page.php?item_id=ukelele
