@@ -28,12 +28,18 @@ python mac2winKeyboard.py Guarani.keylayout
 ```
 
 Instrucciones para instalar una nueva distribución del teclado en Windows
+
 https://support.microsoft.com/es-ar/help/258824/how-to-change-your-keyboard-layout
 
+
 Instrucciones para instalar una nueva distribución del teclado en Mac
+
 Hacer doble click en el archivo Guarani.dmg y arrojar el archivo .keylayout en la carpeta que indica Drag here to install (~Library / Keyboard Layouts)
+
 Abrir el panel de preferencias de teclado
+
 Agregar esta distribución a las opciones de teclado
+
 
 El programa utilizado para generar esta nueva distribución es Ukelele
 
