@@ -3,7 +3,7 @@
 # Guaraní keyboard layout
 Guaraní-Spanish-Portuguese keyboard layout
 
-![Kayboard layout](img/gua-spa.png)
+![Keyboard layout](img/gua-spa.png)
 
 The objective of this new proposal for keyboard distribution is to allow accessibility to the necessary signs to type guaraní and spanish.
 Starting with the Spanish - ISO distribution and introducing the least amount of modifications possible we’ve introduced:
@@ -26,9 +26,17 @@ For making changes in the windows version of the keyboard run in command line:
 ```bash
 python mac2winKeyboard.py Guarani.keylayout
 ```
+How to install a new keyboard layout in Windows:
+
+Https://support.microsoft.com/en-us/help/258824/how-to-change-your-keyboard-layout
+
+How to intall a new keyboard layout on Mac:
+
+Double-click the Guarani.dmg file and drop the .keylayout file into the folder named "Drag here to install" (~/Library/Keyboard Layouts)
+Open the keyboard preferences.
+Add this distribution to the keyboard options from the "Others" section on the left.
 
 This distribution was created using Ukelele
-
 
 - http://scripts.sil.org/cms/scripts/page.php?item_id=ukelele
 - https://support.microsoft.com/es-ar/help/258824/how-to-change-your-keyboard-layout
